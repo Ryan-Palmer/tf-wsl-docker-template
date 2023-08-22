@@ -6,9 +6,9 @@ To run on Windows you will need:
 - Docker Desktop
 - WSL2
 
-Any files you put in the src folder will be available to the Docker container and the Jupyter server.
+Any files you put in the `src` folder will be available to the Docker container and the Jupyter server.
 
-To build an image and create a container from it, execute docker compose up.
+To build an image and create a container from it, execute `docker compose up`.
 
 In the terminal output you will see the URL of the running Jupyter server which you can click to open the Jupyter Lab GUI in a browser.
 

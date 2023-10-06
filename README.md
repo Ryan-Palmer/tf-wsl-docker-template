@@ -6,7 +6,7 @@ To run on Windows you will need:
 - Docker Desktop
 - WSL2
 
-Any files you put in the `src` folder will be available to the Docker container and the Jupyter server.
+Any files you put in the `src` folder will be available to the Docker container and the Jupyter server, e.g. your notebooks and any data files that you want to load.
 
 Add any pip packages you need to pip-packages.txt before building the container.
 
